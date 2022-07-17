@@ -1,0 +1,162 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+body
+{
+    background-color: #f0f8ff;
+    border: 5px solid black;
+}
+
+.image
+{
+    width: 300px;
+    height: auto;
+    border: 2px solid black;
+    margin-top: 100px;
+    margin-left: 200px;
+    display: inline;
+    border-radius: 50%;
+}
+
+.Name,h1
+{
+    text-align: center;
+    justify-content: center;
+    display: inline;
+    margin-top: 220px;
+    margin-left: 25px;
+}
+
+.year,p
+{
+    text-align: center;
+    justify-content: center;
+    font-size: 15px;
+    margin-left: 135px;
+    font-weight: bold;
+}
+
+.heading
+{
+    margin: 50px 0px 20px 170px;
+    font-size: 20px;
+     
+}
+
+.intro
+{
+    margin: 0px 200px 30px 200px;
+    font-size: 20px;
+    text-align:justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+.heading-1
+{
+    margin: 50px 0px 20px 170px;
+    font-size: 20px
+}
+
+.first-intro
+{
+    margin: 0px 200px 30px 200px;
+    font-size: 20px;
+    text-align:justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+.heading-2
+{
+    margin: 50px 0px 20px 170px;
+    font-size: 20px
+}
+
+.second-intro
+{
+    margin: 0px 200px 30px 200px;
+    font-size: 20px;
+    text-align:justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+.heading-3
+{
+    margin: 50px 0px 20px 170px;
+    font-size: 20px
+}
+
+.third-intro
+{
+    margin: 0px 200px 30px 200px;
+    font-size: 20px;
+    text-align:justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+.heading-4
+{
+    margin: 50px 0px 20px 170px;
+    font-size: 20px
+}
+
+.fourth-intro
+{
+    margin: 0px 200px 30px 200px;
+    font-size: 20px;
+    text-align:justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+.heading-5
+{
+    margin: 50px 0px 20px 170px;
+    font-size: 20px
+}
+
+.fiveth-intro
+{
+    margin: 0px 200px 30px 200px;
+    font-size: 20px;
+    text-align:justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+.heading-6
+{
+    margin: 50px 0px 20px 170px;
+    font-size: 20px
+}
+
+.sixth-intro
+{
+    margin: 0px 200px 30px 200px;
+    font-size: 20px;
+    text-align:justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+.bio
+{
+    margin: 50px 0px 25px 200px;
+    font-size: 20px
+}
+
+.list,ul,li
+{
+    margin: 0px 0px 20px 80px;
+    font-size: 15px;
+    font-weight: lighter;
+    text-decoration: dashed;
+    text-align: justify;
+}
